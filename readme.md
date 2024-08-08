@@ -23,6 +23,7 @@ The scope of this list is:
   - [By Username](#by-username)
   - [Prompt Libraries For Specific Use-Cases](#prompt-libraries-for-specific-use-cases)
     - [Data Science](#data-science)
+    - [Game Development](#game-development)
     - [Writing, Content Generation](#writing-content-generation)
     - [Developing/Programming (General)](#developingprogramming-general)
   - [ChatGPT Prompt Libraries - Non-English Languages](#chatgpt-prompt-libraries---non-english-languages)
@@ -68,6 +69,10 @@ The scope of this list is:
 
 - [ChatGPT Data Science Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts)
 
+### Game Development
+
+- [ChatGPT Games](https://github.com/AdmTal/chat-gpt-games)  Prompts for playable games in ChatGPT
+
 ### Writing, Content Generation
 
 - [ChatGPT Prompts For Academic Writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing)
@@ -76,6 +81,7 @@ The scope of this list is:
 
 - [ChatGPT Prompts For Developers](https://github.com/PickleBoxer/dev-chatgpt-prompts)
 - [ChatGPT prompts for bug bounty and pen-testing](https://github.com/TakSec/chatgpt-prompts-bug-bounty)
+- [ChatGPT Prompts For Devops Mastery](https://github.com/schoolofdevops/chatgpt-prompts-devopsmastery)
 
 ## ChatGPT Prompt Libraries - Non-English Languages
 
@@ -91,7 +97,9 @@ The scope of this list is:
 
 ### GPT 3 Prompt Libraries
 
-- [GPT 3 Prompts](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List)
+- [GPT 3 Prompts](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) A free guide for learning to create ChatGPT3 Prompts
+- [Instructgpt-prompts](https://github.com/kevinamiri/Instructgpt-prompts) About
+A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.
 
 ## Jailbreaking
 
@@ -102,8 +110,12 @@ The scope of this list is:
 
 ## Prompt Library Projects
 
+*Projects and software for prompt management, prompt organisation, prompt library creation and optimisation, as well as other resources that aren't simply prompt libraries*
+
 - [OpenPrompt.co](https://github.com/timqian/openprompt.co)
 - [AI Prompt Genius](https://github.com/AI-Prompt-Genius/AI-Prompt-Genius)
+- [ChatGPT Prompt Genius](https://github.com/wenhaomin/ChatGPT-PromptGenius) About
+All-purpose prompts website with hierarchical classification system. Helps you quickly find and share wonderful prompts!  
 
 ---
 
