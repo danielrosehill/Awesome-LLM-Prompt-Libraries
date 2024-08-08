@@ -2,6 +2,23 @@
 
 > Prompt libraries on the internet, but mostly on Github
 
+- [Awesome GPT Prompt Libraries ](#awesome-gpt-prompt-libraries-)
+- [Prompt Libraries](#prompt-libraries)
+  - [ChatGPT Prompt Libraries](#chatgpt-prompt-libraries)
+    - [Repositories with author's username](#repositories-with-authors-username)
+  - [ChatGPT, Prompts For Specific Use-Cases](#chatgpt-prompts-for-specific-use-cases)
+    - [Prompt Libraries For Data Science](#prompt-libraries-for-data-science)
+    - [Prompt Libraries For Writing](#prompt-libraries-for-writing)
+    - [Prompt Libraries For Developers](#prompt-libraries-for-developers)
+  - [ChatGPT Prompt Libraries - Non-English Languages](#chatgpt-prompt-libraries---non-english-languages)
+    - [Chinese](#chinese)
+  - [GPT 3 Prompt Libraries](#gpt-3-prompt-libraries)
+  - [Jailbreaking](#jailbreaking)
+- [Prompt Library Projects](#prompt-library-projects)
+  - [List Author](#list-author)
+  - [Licensing](#licensing)
+
+
 # Prompt Libraries
 
 ## ChatGPT Prompt Libraries
@@ -21,7 +38,7 @@
 
 ### Prompt Libraries For Data Science
 
--[ ChatGPT Data Science Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts)
+- [ChatGPT Data Science Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts)
 
 ### Prompt Libraries For Writing
 
@@ -34,11 +51,9 @@
 
 ## ChatGPT Prompt Libraries - Non-English Languages
 
--[ langgptai/wonderful-prompts](https://github.com/langgptai/wonderful-prompts)
+- [langgptai/wonderful-prompts](https://github.com/langgptai/wonderful-prompts)
 
 ### Chinese
-
-- [Awesome-AI-GPTs](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN)
 
 ## GPT 3 Prompt Libraries
 
