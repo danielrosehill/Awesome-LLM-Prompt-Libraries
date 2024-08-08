@@ -28,3 +28,13 @@ About this section. Optional. Keep this short and focus on the list.
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## Author
+
+Daniel Rosehill  
+(public at danielrosehill dot com)
+
+## Licensing
+
+This repository is licensed under CC-BY-4.0 (Attribution 4.0 International) 
+[License](https://creativecommons.org/licenses/by/4.0/)
