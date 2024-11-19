@@ -1,6 +1,6 @@
 # Awesome GPT Prompt Libraries [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![Sloth writing prompt](/images/banner.webp)
+![Sloth writing prompt](images/banner.webp)
 
 The aim of this repository is to gather together **prompt libraries** which GPT users have chosen to open-source (primarily though not exclusively here on Github).
 
