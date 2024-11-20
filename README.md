@@ -2,6 +2,8 @@
 
 ![Sloth writing prompt](images/banner.webp)
 
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)](https://github.com/danielrosehill/Awesome-LLM-Prompt-Libraries)
+
 The aim of this repository is to gather together **prompt libraries** which GPT users have chosen to open-source (primarily though not exclusively here on Github).
 
 The scope of this list is:
