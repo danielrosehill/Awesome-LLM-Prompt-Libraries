@@ -55,6 +55,7 @@ The scope of this list is:
 # LLM/GPT - General Prompt Libraries
 
 - [Prompt Of The Year](https://github.com/successfulstudy/promptoftheyear)
+- [AI Agent System Prompts Library](https://github.com/tallesborges/agentic-system-prompts) - A curated collection of system prompts and tool definitions from production AI coding agents (Claude Code, Gemini CLI, Cline, Aider, Roo Code, Zed, Codex CLI)
 
 # ChatGPT Prompt Libraries
 
